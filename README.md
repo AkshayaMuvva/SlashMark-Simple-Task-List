@@ -1,2 +1,2 @@
-Simple Task List
-Task 1 By Slash Mark
+**Simple Task List
+Task 1 By Slash Mark**
